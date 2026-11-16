@@ -68,3 +68,5 @@ When you successfully disenchant an apple in a furnace, you are left with a new,
 ❌ **Without explicit permission, you CANNOT:**
 - Reupload this datapack or its files anywhere else.
 - Use the code, assets, or mechanics in other public projects.
+
+Enjoy this project? [Buy me a coffee](https://afdian.com/a/aste2d/plan) to support its maintenance.
